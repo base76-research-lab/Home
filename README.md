@@ -1,49 +1,42 @@
-# Base76 Research Lab — Home
+# Base76 Research Lab
 
-Main entrypoint for the Base76 Research Lab ecosystem.
+Open research lab for reliable AI, epistemic architectures, and autonomous system safety.
 
-## Start Here
+## Mission
 
-- CognOS (code + experiments): https://github.com/base76-research-lab/cognos
-- Articles (public writing): https://github.com/base76-research-lab/articles
-- Thinking (models + notes): https://github.com/base76-research-lab/thinking
+Build trustworthy AI systems that know when to act, when to ask, and when to defer.
 
-## Repository Map
+## Architecture
 
-### 1) CognOS
+- **Epistemic Layer:** uncertainty-aware reasoning and confidence decomposition
+- **Execution Layer:** reproducible experiments, metrics, and evaluation loops
+- **Publication Layer:** open papers, artifacts, and transparent research communication
 
-**Purpose:** implementation, benchmarks, findings, reproducible experiments.
+## 🔗 Repositories
 
-- Experiment pipelines
-- Findings and run logs
-- Colab-first execution paths
+### Core Technology
+- **CognOS** — Closed-loop epistemic architecture framework  
+	https://github.com/base76-research-lab/cognos
 
-### 2) Articles
+### Research
+- **Papers** — Publications and preprints  
+	https://github.com/base76-research-lab/Papers
 
-**Purpose:** public-facing writing, essays, explainers, publication-ready text.
+- **Experiments** — Experimental results and datasets  
+	https://github.com/base76-research-lab/Experiments
 
-- Drafts
-- Published versions
-- Outreach-ready material
+### Research Notes
+- **Thinking Out Loud** — Ideas, hypotheses, and development logs  
+	https://github.com/base76-research-lab/Thinking-Out-Loud
 
-### 3) Thinking
+## Publications
 
-**Purpose:** conceptual development, architectures, diagrams, and working models.
+Main publication artifacts are maintained in the Papers repository and linked to DOI/Zenodo records.
 
-- Concept maps
-- Working notes
-- Design and theory exploration
+## Compute Vision
 
-## Collaboration
+Scale from reproducible CPU/Colab pipelines to structured GPU-backed reliability benchmarking.
 
-If you want to collaborate, open an issue in the relevant repository with:
+## Contact
 
-1. Scope (what)
-2. Why it matters
-3. Expected output
-4. Time sensitivity
-
-## Operating Principle
-
-Separate epistemic work (thinking/research) from rhetorical work (publication/outreach),
-while keeping this Home repo as the single navigation layer.
+Open an issue in the relevant repository for collaboration, replication requests, or partnership discussion.
