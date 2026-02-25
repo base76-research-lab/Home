@@ -9,12 +9,6 @@ Architectural AI research focused on epistemic reliability.
 
 ---
 
-## Hero
-
-Calm precision meets deep technical rigor.
-
----
-
 ## Mission
 
 Base76 Research Lab develops reliable AI architectures that are uncertainty-aware, testable, and scientifically grounded.
