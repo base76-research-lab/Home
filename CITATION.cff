@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Base76 Research Lab — Home"
+message: "If you use this repository, please cite it using this metadata."
+type: software
+authors:
+  - family-names: "Wikström"
+    given-names: "Björn"
+    orcid: "https://orcid.org/0009-0000-4015-2357"
+repository-code: "https://github.com/base76-research-lab/Home"
+license: "MIT"
